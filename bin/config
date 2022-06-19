@@ -1,0 +1,4 @@
+initTankCount=5
+tankSpeed=2
+bulletSpeed=10
+health=5
